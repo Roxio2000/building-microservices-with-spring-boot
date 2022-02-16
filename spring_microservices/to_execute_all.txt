@@ -4,6 +4,7 @@ mvnw spring-boot:run
 http://localhost:3001/customers
 http://localhost:3001/1
 
+https://bit.ly/3HYUJm8
 ####open second command prompt
 cd order_service
 mvnw spring-boot:run

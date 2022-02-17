@@ -21,3 +21,19 @@ cd gateway_service
 mvnw spring-boot:run
 http://localhost:3081/customers
 http://localhost:3081/orders
+
+Order and Customer Service
+-----------------------------------------
+Spring Web
+Eureka Discovery Client
+
+Discovery Service
+----------------------------------------
+Eureka Server
+Spring Boot Actuator
+
+Gateway Service
+-------------------------------------
+Eureka Discovery Client
+Spring Boot Actuator
+Starter gateway
